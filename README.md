@@ -26,6 +26,8 @@ The following group are the active maintainers of this project, and have merge r
 | Marco Donnici    | Developer    | @marcod          | @marcod1419      |
 | Lucy List        | Design       | @lucylist        | @lucylist        |
 | Donna Vitan      | Design       | @donnavitan      | @donnavitan      |
+| Varun Jain       | Product Owner| @varunj90        | @varunj90        |
+
 
 ## Inactive members
 
